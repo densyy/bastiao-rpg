@@ -1,6 +1,6 @@
-<img src="./favicon.svg" alt="App de produtividade por projetos" width="64" />
+<img src="./favicon.svg" alt="Bastião RPG" width="64" />
 
-# Produtividade orientada a execução
+# Bastião RPG
 
 **Acesse em:** https://rpg.densyy.com
 
@@ -83,18 +83,6 @@ O combate é por turnos. A velocidade define quem ataca primeiro. O crítico
 multiplica o dano por 1,6. Você pode atacar, usar item ou fugir. As poções
 curam vida: a Poção Menor cura 50, a Poção Maior cura 140 e o Elixir do
 Bastião cura 400.
-
-## Como testar
-
-Abra https://rpg.densyy.com no navegador. Não precisa instalar. Não precisa
-criar conta. Os dados ficam salvos no mesmo navegador. Por isso, o mesmo
-navegador mostra sempre as mesmas informações.
-
-## Como instalar
-
-Instale o [Bun](https://bun.sh/). Rode `bun install`. Depois rode `bun run dev`.
-O app abre em http://localhost:5173. Para gerar a versão final, rode
-`bun run build`. Ele cria a pasta `build/`.
 
 ## Para onde vão os dados
 
