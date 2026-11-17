@@ -11,7 +11,7 @@ cronômetro e trabalha. Cada sessão concluída vira progresso em um jogo de RPG
 Você ganha níveis, itens e ouro. O app não pede conta. O app não tem servidor.
 Seus dados ficam no seu navegador.
 
-<img src="./assets/dashboard.png" alt="Painel com horas e ganhos por projeto" width="100%" />
+<img src="./assets/inicio.png" alt="Tela início com sorteio de foco e sessões" width="100%" />
 
 ## Qual é o diferencial
 
@@ -36,7 +36,7 @@ A procrastinação aparece. Você não sabe por onde começar. O modo aleatório
 resolve isso. Um clique e o app sorteia o projeto. Ele também sorteia a
 duração. Você só começa.
 
-<img src="./assets/sessao.png" alt="Mesa de foco para iniciar a sessão" width="100%" />
+<img src="./assets/sessao.png" alt="Sorteio aleatório executado com projeto, duração e iniciar sessão" width="100%" />
 
 ## Horas e ganhos por projeto
 
